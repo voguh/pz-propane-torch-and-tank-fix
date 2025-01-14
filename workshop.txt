@@ -1,13 +1,15 @@
 version=1
 id=3396131066
-title=Propane Torch and Tank Fix
+title=[B41] Propane Torch and Tank Fix
 description=This mod is a merge of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883755057]Drazion's 41.78+ Propane Torch Fix[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2889045069]TeregX's Propane Tank Fix[/url].
 description=
 description=
 description=
-description=This item is not authorized for posting on Steam, except under the Steam account named Voguh.
-description=[code]
-description=This project is under GNU LESSER GENERAL PUBLIC LICENSE, Version 3.
-description=[/code]
+description=[quote]
+description=⚠️ This item is not authorized for posting on Steam, except under the Steam account named Voguh.
+description=[/quote]
+description=[quote]
+description=⚠️ This project is under GNU LESSER GENERAL PUBLIC LICENSE, Version 3.
+description=[/quote]
 tags=Build 41;Items
-visibility=friendsOnly
+visibility=public
